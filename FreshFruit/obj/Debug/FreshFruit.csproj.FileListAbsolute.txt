@@ -1,0 +1,15 @@
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\obj\Debug\FreshFruit.csprojAssemblyReference.cache
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\obj\Debug\MainWindow.g.cs
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\obj\Debug\App.g.cs
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\obj\Debug\FreshFruit_MarkupCompile.cache
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\obj\Debug\FreshFruit_MarkupCompile.lref
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\bin\Debug\FreshFruit.exe.config
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\bin\Debug\FreshFruit.exe
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\bin\Debug\FreshFruit.pdb
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\obj\Debug\MainWindow.baml
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\obj\Debug\FreshFruit.g.resources
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\obj\Debug\FreshFruit.Properties.Resources.resources
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\obj\Debug\FreshFruit.csproj.GenerateResource.cache
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\obj\Debug\FreshFruit.csproj.CoreCompileInputs.cache
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\obj\Debug\FreshFruit.exe
+D:\Pemprograman Lanjut\FreshFruit\FreshFruit\obj\Debug\FreshFruit.pdb
